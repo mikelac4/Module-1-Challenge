@@ -13,6 +13,6 @@ This webpage was refactored for accessibility standards. Semantic tags were adde
 
 Link to Webpage: https://mikelac4.github.io/Module-1-Challenge/
 
-Link to GitHub Respository: https://github.com/mikelac4/Module-1-Challenge 
+Link to GitHub Repository: https://github.com/mikelac4/Module-1-Challenge 
 
 
