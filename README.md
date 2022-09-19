@@ -1,5 +1,12 @@
-# Module-1-Challenge
-The module 1 challenge
-![Screenshot 2022-09-18 230324](https://user-images.githubusercontent.com/112447725/190943455-843ca818-951c-4fe2-9afc-bba1dbaef4ff.png)
+# Module 1 Challenge Refactored Horiseon Social Solution Services Webpage
+
+## Description
+This webpage was refactored for accessibility standards. Semantic tags were added and non semantic tags were removed. A more descriptive title was added. Alt texts were added for each image. The missing id within the search-engine-optimization section was also added to make the navigation link work correctly. Repetive css was consolided into more specific selectors. For example in the main element, instead of separate selectors for each section in the main element, one selector was apllied for each section within the main element. The css code was also reorganized to match the structure of the HTML code. Comments were added for HTML and CSS to help explain the structure to the code.
+
+## Screenshot
+
+![Horiseon 1](https://user-images.githubusercontent.com/112447725/190943773-54435b52-7e46-4d84-9f4f-f1d106e2ec2c.png)
+![Horiseon 2](https://user-images.githubusercontent.com/112447725/190943777-4899593d-a9b8-420c-89c2-f45c2e226fa1.png)
+
 
 
