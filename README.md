@@ -1,7 +1,7 @@
 # Module 1 Challenge Refactored Horiseon Social Solution Services Webpage
 
 ## Description
-This webpage was refactored for accessibility standards. Semantic tags were added and non semantic tags were removed. A more descriptive title was added. Alt texts were added for each image. The missing id within the search-engine-optimization section was also added to make the navigation link work correctly. Repetive css was consolided into more specific selectors. For example in the main element, instead of separate selectors for each section in the main element, one selector was apllied for each section within the main element. The css code was also reorganized to match the structure of the HTML code. Comments were added for HTML and CSS to help explain the structure to the code.
+This webpage was refactored for more accessibility. Semantic tags were added and non semantic tags were removed. A more descriptive title was added. Alt texts were added for each image. The missing id within the search-engine-optimization section was also added to make the navigation link work correctly. Repetive css was consolided into more specific selectors. For example in the main element, instead of separate selectors for each section in the main element, one selector was apllied for each section within the main element. The css code was also reorganized to match the structure of the HTML code. Comments were added for HTML and CSS to help explain the structure of the code.
 
 ## Screenshot
 
